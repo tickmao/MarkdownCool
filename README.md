@@ -1,2 +1,17 @@
-# MarkdownCool
-a simlpe web application inporves the Wechat interface
+# 微信公众号排版编辑器
+
+通过 Markdown 实现微信公众号排版，支持一键复制；
+
+## 优点
+
+- 能较好地排版
+- 能解决 `ul` 和 `ol` 元素样式渲染时被微信编辑器重置的问题
+- 能把链接自动转换为参考文献索引，并且附在文字末尾
+
+## 关于我
+
+我是 Tickmao。如果你喜欢我的工具，可以：
+
+- 关注我的公众号 `Tickmao`
+- 关注我的博客 https://www.tickmao.com
+
