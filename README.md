@@ -28,6 +28,6 @@ https://www.tickmao.com/MarkdownCool/
 
 ## Author
 
-JobNav ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
+MarkdownCool ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
 
 Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/Tick_puppet)
