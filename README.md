@@ -9,7 +9,7 @@
 - 能把链接自动转换为参考文献索引，并且附在文字末尾
 
 ## 预览地址
-https://www.tickmao.com/MarkdownCool/
+https://markdowncool.tickmao.com/
 
 ## 缩略图
 ![](https://ae01.alicdn.com/kf/H9689f7fb0b8f4f55875cb2a7833dd7d8L.png)
@@ -30,4 +30,4 @@ https://www.tickmao.com/MarkdownCool/
 
 MarkdownCool ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
 
-Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/Tick_puppet)
+Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/Tick_puppet)
